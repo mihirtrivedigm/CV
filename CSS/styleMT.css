@@ -1,0 +1,25 @@
+body{
+margin: 0;
+}
+
+h1{
+margin-top: 0;
+}
+
+.heading{
+background-color: #cff1ef;
+height: 200px;
+width: 200px;
+}
+
+.body{
+  background-color: #ffffff;
+  height: 200px;
+  width: 200px;
+}
+
+.footer{
+  background-color: #fbcffc;
+  height: 200px;
+  width: 200px;
+}
