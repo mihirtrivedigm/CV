@@ -1,14 +1,38 @@
-body
-{
-    background-color: #C49770;
+body{
+width: 70%;
+margin: auto;
+background: #363636;
+background-size: contain;
 }
-hr
-{
-border-style: dotted none none;
+
+.frame{
+background-color: white;
+margin: 5% auto;
+}
+
+h1{
+padding: 3% 1% 1% 1%;
+color: black;
+}
+
+h2{
+width: 90%;
+margin: 3% auto 0%;
+}
+
+hr{
+width: 90%;
+  margin-top: 0em;
+  margin-bottom: 0em;
+}
+
+.personal{
 width: 70%;
-border-width: 8px;
-border-color: #ffffff;
-/* border-color: #204051;
-width: 70%;
-height: 1px; */
+align-items: center;
+}
+
+.mytable{
+padding: 5%;
+align: center;
+margin: auto;
 }
