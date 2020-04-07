@@ -15,7 +15,7 @@ padding: 3% 1% 1% 1%;
 color: black;
 }
 
-h2{
+h3{
 width: 90%;
 margin: 3% auto 0%;
 }
@@ -43,7 +43,15 @@ padding: 0%;
 border: 1px solid black;
 }
 
-.education{
-width: 90%;
+.info{
+width: 80%;
 margin: auto;
+}
+
+ul.role{
+ list-style-type: disc;
+}
+
+.end{
+padding-bottom: 10%;
 }
